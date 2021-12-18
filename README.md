@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Divya Prakash, welcome to my github page.
 - 🔭 I’m currently working on my skill development to create something Awesome
-- 👀 I’m having experience in .Net WebForm, MVC, Core Full Stack developer with other techs like WebAPI, RestAPI, MySQL,JavaScript and Angular
+- 👀 I’m having experience in .Net WebForm, MVC, Core Full Stack development with other techs like WebAPI, RestAPI, MySQL,JavaScript and Angular
 - 🌱 I’m currently learning django framework for web development along with React development for FrontEnd.
 - 💞️ If you are looking someone to collaborate...Ya I am here👋..
 - 📫 You can connect me on prakashdivy80@gmail.com
