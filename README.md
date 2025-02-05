@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Divya Prakash, welcome to my github page.
 - 🔭 I’m currently working on my skill development to create something Awesome
-- 👀 As a Senior Engineer Product Development at Circana, I leverage my skills in .NET, Angular, SQL, Microservices, and software architecture to build large-scale enterprise systems that enhance client satisfaction. I have led the development of functional specifications, wireframes, and source code for innovative software solutions.
+- 👀 As a Senior Engineer Product Development, I leverage my skills in .NET, Angular, SQL, Microservices, and software architecture to build large-scale enterprise systems that enhance client satisfaction. I have led the development of functional specifications, wireframes, and source code for innovative software solutions.
 - 🌱 Currently, I am advancing my expertise in Artificial Intelligence (AI) and Machine Learning (ML) through certifications in Python, Artificial Neural Networks, TensorFlow, and more. My focus includes machine learning algorithms, deep learning, and data-driven decision-making.
 - 💞️ If you are looking someone to collaborate...Ya I am here👋..
 - 📫 You can connect me on prakashdivy80@gmail.com
